@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class NewTest {
   @Test
   public void LoginTest() {
-	  WebDriver driver=new ChromeDriver();
+	  WebDriver driver=new ChromeDriver()
 	  
   }
 }
