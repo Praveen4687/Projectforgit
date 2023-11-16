@@ -8,8 +8,8 @@ public class NewTest {
   @Test
   public void LoginTest() {
 	  WebDriver driver=new ChromeDriver();
-	  int a=0,b=20,c
-			  c=a+b
+	  int a=0,b=20,c;
+			  c=a+b;
 	  
   }
 }
