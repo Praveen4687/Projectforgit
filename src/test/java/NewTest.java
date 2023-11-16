@@ -11,5 +11,6 @@ public class NewTest {
 	public void Add(){
 		int a=10,b=20,c;
 		c=a+b;
+		System.out.println(c);
 	}
 }
