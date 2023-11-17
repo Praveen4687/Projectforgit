@@ -8,9 +8,10 @@ public class NewTest {
   @Test
   public void LoginTest() {
 	  WebDriver driver=new ChromeDriver();
+	  driver.get("https://www.ciitinstitute.com");
 	  int a=0,b=20,c;
 			  c=a+b;
-			  System.out.println(c);
+			  System.out.println("Addition="+c);
 	  
   }
 }
