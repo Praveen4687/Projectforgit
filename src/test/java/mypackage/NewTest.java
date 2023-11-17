@@ -10,6 +10,7 @@ public class NewTest {
 	  WebDriver driver=new ChromeDriver();
 	  int a=0,b=20,c;
 			  c=a+b;
+			  System.out.println(c);
 	  
   }
 }
